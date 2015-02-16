@@ -1,0 +1,3 @@
+pip install six
+pip install bcrypt
+pip install validators
